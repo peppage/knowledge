@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
-
+- [Introduction](README.md)
+- [Brewing](brewing/brewing.md)
+  - [Makgeolli 막걸리](brewing/makgeolli.md)
+- [Projects](projects/projects.md)
+  - [Wanderinglunch](projects/wanderinglunch.md)
+- [Ideas](ideas/ideas.md)
