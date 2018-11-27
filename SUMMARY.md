@@ -6,3 +6,4 @@
 - [Projects](projects/projects.md)
   - [Wanderinglunch](projects/wanderinglunch.md)
 - [Ideas](ideas/ideas.md)
+- [Coffee](coffee/coffee.md)
