@@ -9,5 +9,4 @@ alter their taste at all.
 ### 3-19 Coffee
 Cool branding but their coffee comes in unsealed bags that don't work for me.
 
-#### Blend | Frida
-It's an OK coffee, not one of my favorites.
+* Blend | Frida - It's an OK coffee, not one of my favorites.
