@@ -4,7 +4,7 @@ This is my website for tracking food trucks around NYC. It was at their height o
 knowing if I should leave the office and walk to Broadway to grab lunch. You kind of have to choose which direction
 to go in.
 
-Originally getting into it I found Python to be interesting and so I went with (CherryPy)[https://cherrypy.org/]. It worked
+Originally getting into it I found Python to be interesting and so I went with [CherryPy](https://cherrypy.org/). It worked
 but found it to be a little difficult to get on a server.
 
 Then I moved to Node.js because that was crazy popular. It was interesting for a bit and probably taught me more about javascript
