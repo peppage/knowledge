@@ -1,6 +1,6 @@
 # Wanderinglunch
 
-This is my website for tracking food trucks around NYC. It was at their height of popularity and I was having trouble
+This is [my website](https://wanderinglunch.com/nyc) for tracking food trucks around NYC. It was at their height of popularity and I was having trouble
 knowing if I should leave the office and walk to Broadway to grab lunch. You kind of have to choose which direction
 to go in.
 
