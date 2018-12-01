@@ -7,3 +7,5 @@
   - [Wanderinglunch](projects/wanderinglunch.md)
 - [Ideas](ideas/ideas.md)
 - [Coffee](coffee/coffee.md)
+- Food
+  - [Water Alternatives](food/water-alternatives.md)
