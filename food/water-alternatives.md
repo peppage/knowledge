@@ -12,3 +12,12 @@ don't understand either).
 I had this one with apple and ginger. It had strong flavors of ginger. I liked drinking it.
 
 ![Image of Säpp](https://i.imgur.com/wJcBrqM.jpg?1)
+
+## Matchabar
+
+Yeah I like green tea and matcha so this makes sense.
+
+I had this one and it does have a strong lemonade flavor. It's good but makes me wonder what
+the original is like.
+
+![Image of Matchabar](https://i.imgur.com/g0TyfS3.jpg?1)
