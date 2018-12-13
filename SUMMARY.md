@@ -11,3 +11,4 @@
   - [Water Alternatives](food/water-alternatives.md)
   - Cooking
     - [Vegan Butter](/food/cooking/vegan-butter.md)
+    - [Vegan Yogurt](/food/cooking/vegan-yogurt.md)
