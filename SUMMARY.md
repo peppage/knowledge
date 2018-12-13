@@ -9,3 +9,5 @@
 - [Coffee](coffee/coffee.md)
 - Food
   - [Water Alternatives](food/water-alternatives.md)
+  - Cooking
+    - [Vegan Butter](/food/cooking/vegan-butter.md)
