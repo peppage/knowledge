@@ -6,6 +6,8 @@ Iv'e made this twice now but haven't gotten it to thicken up. Probably because I
 
 #### Recipe
 
+[Link](https://instantloss.com/instant-pot-dairy-free-coconut-milk-yogurt/)
+
 It's very simple. Heat up the coconut milk to 180F to kill anything. Then cool it to 90F and put in the
 capsules. Then Instant Pot for 8 hours. Has a good sour at the end.
 
