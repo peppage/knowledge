@@ -9,6 +9,7 @@
 - [Coffee](coffee/coffee.md)
 - Food
   - [Water Alternatives](food/water-alternatives.md)
-  - Cooking
+  - [Cooking](/food/cooking/cooking.md)
     - [Vegan Butter](/food/cooking/vegan-butter.md)
     - [Vegan Yogurt](/food/cooking/vegan-yogurt.md)
+    - [Japanese Breakfast](/food/cooking/japanese-breakfast.md)
