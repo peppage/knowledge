@@ -1,5 +1,11 @@
 # Coffee
 
+## Roasters to try
+* http://www.ritualroasters.com/
+* https://www.highwirecoffee.com/collections/coffee
+* https://www.slojoy.com/order
+* https://timelesscoffee.com/shop/
+
 ## Storage
 I purchase coffee in bulk and store it unopened in the freezer. I found that saves the beans and doesn't
 alter their taste at all.
