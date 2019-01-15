@@ -1,17 +1,41 @@
 # Youtube
 
 ## Writing
+
 I write all my videos and read a script. Finding the correct app to do it has been a pain in the ass.
 
 ### Google Docs
+
 It's OK but it's not great. It still acts weird about syncing the data and sometimes I'm on the train and I don't have
 the updated script. Or it won't sync the other way unless I open the app.
 
 ### Notion
+
 Wouldn't save the last couple characters on my words. WTF
 
 ### Simplenote
+
 Haven't tried it yet.
 
 ### Zoho Writer
+
 Giving this one a fair chance.
+
+
+## Editing
+
+### Premiere
+
+What can I say? It seems like everyone uses this, I hate paying a fee when I'm doing such simple video editing.
+
+### [Shotcut](https://www.shotcut.org/)
+
+Perfect for starting out (free!) and doing simple editing. I had to switch away because it crashed and would fail exporting.
+
+### DaVinci Resolve
+
+Maybe a contender?
+
+### Filmora9
+
+The pricing is nice.
