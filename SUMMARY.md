@@ -5,6 +5,7 @@
   - [Makgeolli 막걸리](brewing/makgeolli.md)
 - [Projects](projects/projects.md)
   - [Wanderinglunch](projects/wanderinglunch.md)
+  - [Youtube](projects/youtube.md)
 - [Ideas](ideas/ideas.md)
 - [Coffee](coffee/coffee.md)
 - Food
