@@ -19,8 +19,16 @@ Haven't tried it yet.
 
 ### Zoho Writer
 
-Giving this one a fair chance.
+Doesn't work for me because the mobile experience is TERRIBLE.
 
+1. I lose connection in subway and it freaks out
+1. Doesn't capitalize the first word in a sentence.
+
+I can't figure out what they expect people are doing with their app. The desktop experience isn't bad though.
+
+### Wavemaker
+
+A novel writing app but it seems like it has notes and writing.
 
 ## Editing
 
