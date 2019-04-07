@@ -5,6 +5,11 @@
 * https://www.highwirecoffee.com/collections/coffee
 * https://www.slojoy.com/order
 * https://timelesscoffee.com/shop/
+* https://www.darkmattercoffee.com/
+* https://swroasting.com/
+* https://www.moderntimesmerch.com/collections/coffee/coffee
+* https://www.vervecoffee.com/
+* https://rubycoffeeroasters.com/
 
 ## Storage
 I purchase coffee in bulk and store it unopened in the freezer. I found that saves the beans and doesn't
@@ -27,3 +32,9 @@ I haven't had bad coffee from here. It was an accident I learned about this roas
 stopped at [The Wormhole Coffee](http://www.thewormhole.us/) in Chicago and had a great cup.
 
 * Moonbat Blend - So far my favorite
+
+### [Onyx Coffee Lab](https://onyxcoffeelab.com/)
+Considered one of the best coffee roasters in the US, I've seen them on the top lists all
+the time. Would order again!
+
+* Framily - Wonderful! Had a good mouthfeel.
