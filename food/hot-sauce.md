@@ -13,6 +13,8 @@
 * High River Sauces | Cheeba Gold - Has a ton of flavor, really good on eggs.
 * Popp Sauce | Paddy O's Potion
 * Dirty Dick's | Hot Pepper Sauce - Perhaps a little too spicy for everything
+* Pirate's Lantern Pepper Sauce
+* Hot Ones | Los Calientes
 
 ## Fine Sauces
 
@@ -22,7 +24,8 @@
 ## Nah
 
 * Heartbeat Hot Sauce | Habanero - Has heat but that's all. Not enough to make it the hottest sauce for the house.
-
+* Pablo's | Bull Fighter
+* Queen Majesty | Red Habanero & Black Coffee
 
 
 
