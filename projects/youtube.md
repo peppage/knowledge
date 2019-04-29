@@ -15,7 +15,9 @@ Wouldn't save the last couple characters on my words. WTF
 
 ### Simplenote
 
-Haven't tried it yet.
+This is the ULTIMATE note taking and syncing app. The sync happens instantly and the
+keyword works all the time correctly. It stays out of my way and doesn't do any weird sync while
+I'm on the subway.
 
 ### Zoho Writer
 
