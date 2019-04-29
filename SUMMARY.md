@@ -12,6 +12,7 @@
   - [Japan](travel/japan.md)
 - Food
   - [Water Alternatives](food/water-alternatives.md)
+  - [Hot Sauce](food/hot-sauce.md)
   - [Cooking](/food/cooking/cooking.md)
     - [Vegan Butter](/food/cooking/vegan-butter.md)
     - [Vegan Yogurt](/food/cooking/vegan-yogurt.md)
