@@ -19,3 +19,5 @@
     - [Fermenting](/food/cooking/fermenting.md)
 - Programming
   - [Csharp](programming/csharp.md)
+- Misc
+  - [Toothpaste](misc/toothpaste.md)
