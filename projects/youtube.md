@@ -49,3 +49,15 @@ Maybe a contender?
 ### Filmora9
 
 The pricing is nice.
+
+## Audio
+
+### Audacity
+
+This works great for starting out! Has enough to be used for a lifetime as well.
+
+### Reaper
+I was always skeptical about using Reaper but it is superior to Audacity. It's
+much easier to remove mistakes and combine the audio. It's not destructive. What
+finally sold me is watching [this playlist](https://www.youtube.com/playlist?list=PLzEW-dm_vsRvfiH9RVKAJA6Vd2CccnVmn)
+about setting it up. I tried it and after one session I purchased it. Not a bad price.
