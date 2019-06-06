@@ -44,11 +44,17 @@ Perfect for starting out (free!) and doing simple editing. I had to switch away 
 
 ### DaVinci Resolve
 
-Maybe a contender?
+This would probably work but the program is a lot of effort to learn. However, it doesn't read my DxTory recordings because they use the MagicYUV codec. I've been very happy using that codec so a shift
+away from that would a big change.
 
 ### Filmora9
 
-The pricing is nice.
+The pricing is nice but the Reddit video editing subreddit does not like using this program.
+
+### Hitfilm Express
+
+I cannot get a good render from this. Probably because it's the free version. The gameplay has so
+much noise around the edges that it's a waste.
 
 ## Audio
 
