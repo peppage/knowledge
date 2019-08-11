@@ -15,6 +15,21 @@
 I purchase coffee in bulk and store it unopened in the freezer. I found that saves the beans and doesn't
 alter their taste at all.
 
+## Brewing
+
+### Iced coffee for 2
+
+The goal is to cool the coffee as soon as it's brewed. Also to brew a stronger coffee becaus we're using less water through the grounds.
+
+1. Measure 34g of coffee and grind
+1. Measure 176g of ice.
+1. Heat up the Kalita Wave series 185 Lotto with hot water but do not drain into the catch container. No reason to heat that up. 
+1. Put everything together like you're brewing hot coffee and zero out the scale. (Kalita, catch, filter, and coffee)
+1. Place ice into catch container
+1. Now pour 205F water onto the grounds like normal. Keep the temperature hotter than normal (around 205).
+1. Pour slow and very little water on. We want to brew with much less water for the same amount of time
+1. Pour until the scale reaches the normal amount (500g) of water hopefully over 5minutes.
+
 ## Brands
 
 ### [3-19 Coffee](https://319coffee.com/)
