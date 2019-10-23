@@ -3,13 +3,17 @@
 You do need to say `bonjour` and `bonsoir` when greeting people. Everyone was pretty nice about though.
 `Merci` and `pardon` go a long way too. That's it though, English is prevelant.
 
+Make all the reserveations you can. If a place is a sit down resturant you will **need** a reservation. Val made
+many of the reservations we had online before we left.
+
 ## Todo
 
 - [Devour Tours](https://devourparisfoodtours.com/tours/tour/marais-food-tour-paris/) - Really fun food tour! The tour
 guide was great and we learned a lot. It's nice to hit up these smaller places and try a sample of what they offer.
 - Jardin du Musée Rodin - really good museum. The audio guide is worth it but be prepared to be there longer than
 you expect.
-- [La Cave du 38 Riv'](https://goo.gl/maps/nWxCP3eZZJkNP5EX9) - tiny and good jazz place. You can probably get in if you go early.
+- [La Cave du 38 Riv'](https://goo.gl/maps/nWxCP3eZZJkNP5EX9) - tiny and good jazz place. You can probably
+get in if you go early. But, you should see if you can reserve tickets before going.
 
 ## Places/Food Spots we liked:
 
