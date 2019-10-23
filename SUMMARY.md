@@ -10,6 +10,7 @@
 - [Coffee](coffee/coffee.md)
 - Travel
   - [Japan](travel/japan.md)
+  - [Paris](travel/paris.md)
 - Food
   - [Water Alternatives](food/water-alternatives.md)
   - [Hot Sauce](food/hot-sauce.md)
