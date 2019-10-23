@@ -1,6 +1,6 @@
 # Paris
 
-You do need to say `bonjour` and `bonne nuit` when greeting people. Everyone was pretty nice about though.
+You do need to say `bonjour` and `bonsoir` when greeting people. Everyone was pretty nice about though.
 `Merci` and `pardon` go a long way too. That's it though, English is prevelant.
 
 ## Todo
