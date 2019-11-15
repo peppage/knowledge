@@ -53,3 +53,6 @@ Considered one of the best coffee roasters in the US, I've seen them on the top 
 the time. Would order again!
 
 * Framily - Wonderful! Had a good mouthfeel.
+
+### [Happy Mug](https://happymugcoffee.com/)
+Simple coffee selection with great prices. They make it SO easy to pick which coffee you want with a roast meter and tasting notes right up front. I've been happy with all the coffee I've purchased. My favorite is the Rainy Day Blend.
