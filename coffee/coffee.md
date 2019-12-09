@@ -56,3 +56,6 @@ the time. Would order again!
 
 ### [Happy Mug](https://happymugcoffee.com/)
 Simple coffee selection with great prices. They make it SO easy to pick which coffee you want with a roast meter and tasting notes right up front. I've been happy with all the coffee I've purchased. My favorite is the Rainy Day Blend.
+
+### [PROOF](https://shop.proof.coffee/)
+I ordered on Nov 15th and they sent me beans that were roasted on Oct 2. They were trash.
