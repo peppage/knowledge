@@ -2,8 +2,8 @@
 
 ## Key Phrases
 
-- sumi masan (excuse me) this is the best way to get a server's attention (we heard people yelling "excuse" and not getting acknowledged hah). 
-- Arigato gosai mas (formal thank you) it's just generally polite and you'll hear it everywhere so eventually you just start saying it too.
+- sumi masan (excuse me) this is the best way to get a server's attention (we heard people yelling "excuse" and not getting acknowledged hah). [Listen on google translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=excuse%20me)
+- Arigato gosai mas (formal thank you) it's just generally polite and you'll hear it everywhere so eventually you just start saying it too. [Listen on google translate](https://translate.google.com/#view=home&op=translate&sl=auto&tl=ja&text=thank%20you)
 
 ## General Things
 
@@ -22,15 +22,17 @@ This is a combo of things I read before going and what I wish I knew before goin
 ## Places/Food Spots we liked:
 ### Tokyo
 
-- Ginza Kazami https://goo.gl/maps/ABDEbUd1GH22 - Amazing ramen (probably our favorite in Tokyo). It's only got about 8 seats but you wait in a line which only took us about 30min around 6pm.
-- Tonkatsu Suzuki https://goo.gl/maps/7vTeYqkYqk72 - awesome pork tonkatsu. It's located inside Tokyo Station (Google Maps is pretty good with Tokyo Station too, tells you the floors and everything).
-- Rokurnisha https://goo.gl/maps/eRpVFcUKbYJ2 - dipping ramen! Also located in Tokyo Station.
-- Asakusa Kagetudo https://goo.gl/maps/fDsGnDbjPL82 -  if you go to Senso-ji temple, definitely get a melon pan from here after.
-- Rikugien Gardens https://goo.gl/maps/x7YNy2Tm8Uw - This was a nice little japanese garden. I think all gardens have a small fee to enter (100-300 yen) but they are well maintained and nice to walk through on a good day. This was small so we were able to check out the whole thing in a short amount of time (apparently it's best in the Spring).
-- Soba https://goo.gl/maps/T8CcNQ1vMcx - the name is in kanji but it's super cheap and delicious for lunch. There were only locals eating there when we went.
+- [Ginza Kazami](https://goo.gl/maps/ABDEbUd1GH22) - Amazing ramen (probably our favorite in Tokyo). It's only got about 8 seats but you wait in a line which only took us about 30min around 6pm.
+- [Tonkatsu Suzuki](https://goo.gl/maps/7vTeYqkYqk72) - awesome pork tonkatsu. It's located inside Tokyo Station (Google Maps is pretty good with Tokyo Station too, tells you the floors and everything).
+- [Rokurnisha](https://goo.gl/maps/eRpVFcUKbYJ2) - dipping ramen! Also located in Tokyo Station.
+- [Asakusa Kagetudo](https://goo.gl/maps/fDsGnDbjPL82) -  if you go to Senso-ji temple, definitely get a melon pan from here after.
+- [Rikugien Gardens](https://goo.gl/maps/x7YNy2Tm8Uw) - This was a nice little japanese garden. I think all gardens have a small fee to enter (100-300 yen) but they are well maintained and nice to walk through on a good day. This was small so we were able to check out the whole thing in a short amount of time (apparently it's best in the Spring).
+- [Soba](https://goo.gl/maps/T8CcNQ1vMcx) - the name is in kanji but it's super cheap and delicious for lunch. There were only locals eating there when we went.
 - PIZZA - yes we did find amazing pizza in Japan. Both of these places are worth a stop.
-  - Pizza Studio Tamaki https://goo.gl/maps/guka32B4W3J2 they do all kinds of pies, wide selection.
-  - SAVOY https://goo.gl/maps/9Trtaw8Na2v they only make 2 pies - marinara (no cheese) or margarita. it's still delicious even with the lack of choices!
+  - [Pizza Studio Tamaki](https://goo.gl/maps/guka32B4W3J2) they do all kinds of pies, wide selection.
+  - [SAVOY](https://goo.gl/maps/9Trtaw8Na2v) they only make 2 pies - marinara (no cheese) or margarita. it's still delicious even with the lack of choices!
+- [Tonkatsu Tonki](https://goo.gl/maps/KZJjnkYN5w5CVgX47) - This is a great experience, sitting downstairs at a long counter feels Japanese. You have to sit at the bar. It was yummy but I'm not sure if it wins against Tonkatsu Suzuki. If in the area check it out, if there's a wait it's short.
+- [Udon Shin](https://maps.app.goo.gl/gEKKPqRkDjsYCfXD8) - You only need to take one look at the photos to see how delicious the noodles look. Udon carbonara is amazing!
 
 ### Kyoto
 
