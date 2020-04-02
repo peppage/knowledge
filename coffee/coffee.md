@@ -10,6 +10,12 @@
 * https://www.moderntimesmerch.com/collections/coffee/coffee
 * https://www.vervecoffee.com/
 * https://rubycoffeeroasters.com/
+* https://www.elementarycoffee.co/
+* https://oslocoffee.com/
+* https://www.birdandbranch.com/
+* https://www.allegrocoffee.com/
+* https://parlorcoffee.com/
+* https://www.acecoffee.co/
 
 ## Storage
 I purchase coffee in bulk and store it unopened in the freezer. I found that saves the beans and doesn't
@@ -40,7 +46,7 @@ Cool branding but their coffee comes in unsealed bags that don't work for me.
 ### [Equator Coffees & Teas](https://www.equatorcoffees.com/)
 One of my favorites! Most of the coffee I've had here is good.
 
-* Tayler Wiles Blend - No idea who this is but it's good.
+* Tayler Wiles Blend - No idea who this is but it's good. (it's no longer offered)
 
 ### [Halfwit Coffee Roasters](https://www.halfwitcoffee.com/)
 I haven't had bad coffee from here. It was an accident I learned about this roaster at all. We
