@@ -1,3 +1,13 @@
 # Dinners
 
+## Anytime
 * [Salisbury Steaks](https://www.rabbitandwolves.com/vegan-lentil-salisbury-steak/)
+* Bean + Guac Tacos (VB Creation)
+* Quinoa Stuffed Peppers (Skinnytaste OG cookbook)
+* Spaghetti & Bean Balls (Appetite for Reduction)
+* [Broccoli Mac and Cheese](https://www.skinnytaste.com/skinny-baked-broccoli-macaroni-and/)
+* [Yogurt Dough Pizza](https://www.skinnytaste.com/grilled-pizza/)
+* [Mushroom Kale Lasagna Rolls] (https://www.skinnytaste.com/mushroom-kale-lasagna-rolls/)
+
+## Fall
+* [Pumpkin Mac and Cheese](https://www.skinnytaste.com/pumpkin-mac-and-cheese-with-roasted-veggies/)
