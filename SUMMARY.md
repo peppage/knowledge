@@ -6,7 +6,6 @@
 - [Projects](projects/projects.md)
   - [Wanderinglunch](projects/wanderinglunch.md)
   - [Youtube](projects/youtube.md)
-- [Ideas](ideas/ideas.md)
 - [Coffee](coffee/coffee.md)
 - Travel
   - [Japan](travel/japan.md)
