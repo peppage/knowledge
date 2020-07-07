@@ -6,6 +6,7 @@
 * Humble House | Guajillo and Red Jalapeno Sauce - Even better than Ancho & Morita. Much more even on flavor so it can go on more food. Not spicy though.
 * The Bronx | Green Hot Sauce
 * Pain is Good
+* Yellow Bird | Organic Serrano & Sriracha ([link](https://www.yellowbirdfoods.com/collections/hot-sauce/products/organic-serrano-condiment)) - So much flavor!
 
 ## Good sauces
 
