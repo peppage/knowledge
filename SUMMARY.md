@@ -19,6 +19,7 @@
     - [Vegan Yogurt](/food/cooking/vegan-yogurt.md)
     - [Japanese Breakfast](/food/cooking/japanese-breakfast.md)
     - [Fermenting](/food/cooking/fermenting.md)
+  - [Best Dinners](food/dinners.md)
 - Programming
   - [Csharp](programming/csharp.md)
 - Misc
