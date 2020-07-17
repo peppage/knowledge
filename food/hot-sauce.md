@@ -7,15 +7,18 @@
 * The Bronx | Green Hot Sauce
 * Pain is Good
 * Yellow Bird | Organic Serrano & Sriracha ([link](https://www.yellowbirdfoods.com/collections/hot-sauce/products/organic-serrano-condiment)) - So much flavor!
+* Heartbeat Hot Sauce | Heatonist #4 - Lion's Mane Piri Piri
 
 ## Good sauces
 
 * Humble House | Ancho & Morita - Good! It's something you can put on everything but it's a little sweet and not spicy.
 * High River Sauces | Cheeba Gold - Has a ton of flavor, really good on eggs.
+* Hell Fire Detroit | Habanero
 * Popp Sauce | Paddy O's Potion
 * Dirty Dick's | Hot Pepper Sauce - Perhaps a little too spicy for everything
 * Pirate's Lantern Pepper Sauce
 * Hot Ones | Los Calientes
+* Seed Ranch | Umami - A lot of flavor but it's not hot at all. Would try their other sauces.
 
 ## Fine Sauces
 
@@ -27,6 +30,7 @@
 * Heartbeat Hot Sauce | Habanero - Has heat but that's all. Not enough to make it the hottest sauce for the house.
 * Pablo's | Bull Fighter
 * Queen Majesty | Red Habanero & Black Coffee
+* Sauce Bae | Skinny Habanero Hot Sauce
 
 
 
