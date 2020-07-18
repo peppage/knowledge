@@ -27,7 +27,7 @@ alter their taste at all.
 
 The goal is to cool the coffee as soon as it's brewed. Also to brew a stronger coffee becaus we're using less water through the grounds.
 
-1. Measure 34g of coffee and grind
+1. Measure 32g of coffee and grind
 1. Measure 176g of ice.
 1. Heat up the Kalita Wave series 185 Lotto with hot water but do not drain into the catch container. No reason to heat that up. 
 1. Put everything together like you're brewing hot coffee and zero out the scale. (Kalita, catch, filter, and coffee)
