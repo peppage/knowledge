@@ -67,4 +67,4 @@ Simple coffee selection with great prices. They make it SO easy to pick which co
 I ordered on Nov 15th and they sent me beans that were roasted on Oct 2. They were trash.
 
 ### [Counter Culture](https://counterculturecoffee.com/)
-Classic.
+Classic. Favorite coffee is [fourty-six](https://counterculturecoffee.com/shop/coffee/collection-forty-six)
