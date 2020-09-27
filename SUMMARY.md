@@ -19,6 +19,7 @@
     - [Japanese Breakfast](/food/cooking/japanese-breakfast.md)
     - [Fermenting](/food/cooking/fermenting.md)
   - [Best Dinners](food/dinners.md)
+  - [Knives](/food/knives.md)
 - Recipes
   - [Vegan Dan Dan Noodles](food/recipes/vegan-dandan.md)
 - Programming
