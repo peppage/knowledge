@@ -84,24 +84,19 @@ upstream NAME {
 server {
     listen       80;
     server_name  www.DOMAIN;
-    return 301 https://DOMAIN;
+    return 301   https://DOMAIN;
 }
 
 server {
     server_name  DOMAIN;
-    gzip on;
+    listen       80;
+    gzip         on;
     gzip_proxied any;
-    gzip_types text/plain text/xml text/css application/x-javascript;
-    gzip_vary on;
+    gzip_types   text/plain text/xml text/css application/x-javascript;
+    gzip_vary    on;
 
     location / {
         proxy_pass http://NAME;
     }
-}
-
-
-server {
-    listen       80;
-    server_name  DOMAIN;
 }
 ```
