@@ -72,3 +72,36 @@ Then restart the service
 
     service postgresql restart
     
+### Nginx
+
+Default setup for most things. Highly recommend setting up [certbot](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)
+
+```
+upstream NAME {
+  server 127.0.0.1:8001;
+}
+
+server {
+    listen       80;
+    server_name  www.DOMAIN;
+    return 301 https://DOMAIN;
+}
+
+server {
+    server_name  DOMAIN;
+    gzip on;
+    gzip_proxied any;
+    gzip_types text/plain text/xml text/css application/x-javascript;
+    gzip_vary on;
+
+    location / {
+        proxy_pass http://NAME;
+    }
+}
+
+
+server {
+    listen       80;
+    server_name  DOMAIN;
+}
+```
