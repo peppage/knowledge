@@ -60,8 +60,7 @@ Edit this file `vim /etc/apt/apt.conf.d/10periodic`,
    
 ### Postgres 
 
-    su postgres
-    createuser mca
+    sudo -u postgres createuser --createdb --createrole mca
     vi /etc/postgresql/VER/main/pg_hba.conf
     
 Edit the file to allow for all local connections. Changing it to "trust".
