@@ -8,6 +8,7 @@
 * [Broccoli Mac and Cheese](https://www.skinnytaste.com/skinny-baked-broccoli-macaroni-and/)
 * [Yogurt Dough Pizza](https://www.skinnytaste.com/grilled-pizza/)
 * [Mushroom Kale Lasagna Rolls](https://www.skinnytaste.com/mushroom-kale-lasagna-rolls/)
+* [Pizza Cups](https://emilybites.com/2017/05/pizza-wonton-cups.html)
 
 ## Fall
 * [Pumpkin Mac and Cheese](https://www.skinnytaste.com/pumpkin-mac-and-cheese-with-roasted-veggies/)
