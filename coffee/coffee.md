@@ -36,17 +36,7 @@ The goal is to cool the coffee as soon as it's brewed. Also to brew a stronger c
 1. Pour slow and very little water on. We want to brew with much less water for the same amount of time
 1. Pour until the scale reaches the normal amount (500g) of water hopefully over 5minutes.
 
-## Brands
-
-### [3-19 Coffee](https://319coffee.com/)
-Cool branding but their coffee comes in unsealed bags that don't work for me.
-
-* Blend | Frida - It's an OK coffee, not one of my favorites.
-
-### [Equator Coffees & Teas](https://www.equatorcoffees.com/)
-One of my favorites! Most of the coffee I've had here is good.
-
-* Tayler Wiles Blend - No idea who this is but it's good. (it's no longer offered)
+## Currently in rotation
 
 ### [Halfwit Coffee Roasters](https://www.halfwitcoffee.com/)
 I haven't had bad coffee from here. It was an accident I learned about this roaster at all. We
@@ -58,13 +48,35 @@ stopped at [The Wormhole Coffee](http://www.thewormhole.us/) in Chicago and had 
 Considered one of the best coffee roasters in the US, I've seen them on the top lists all
 the time. Would order again!
 
-* Framily - Wonderful! Had a good mouthfeel.
+* Framily - Wonderful! Had a good mouthfeel. (only sold around Dec)
+* Monarch & Eclipse are good, I like their coffees on the more traditional side.
+
+### [Counter Culture](https://counterculturecoffee.com/)
+Classic. Favorite coffee is [fourty-six](https://counterculturecoffee.com/shop/coffee/collection-forty-six)
+
+### [Methodical](https://methodicalcoffee.com/)
+Excellent! I really enjoy their site since it lets you choose classic, contemporary, or avant-garde type
+coffees. Makes it easy to find.
+
+* Blue Boy & Belly Warmer are great.
+
+## Not at the moment
+### [Equator Coffees & Teas](https://www.equatorcoffees.com/)
+
+Was one of my favs but they removed my favorite blend. Still, their coffee is
+perfectly roasted and I'm sure I'll buy again. Just can't find the flavors I want.
 
 ### [Happy Mug](https://happymugcoffee.com/)
+
 Simple coffee selection with great prices. They make it SO easy to pick which coffee you want with a roast meter and tasting notes right up front. I've been happy with all the coffee I've purchased. My favorite is the Rainy Day Blend.
+
+## Nah
+
+### [3-19 Coffee](https://319coffee.com/)
+Cool branding but their coffee comes in unsealed bags that don't work for me.
+
+* Blend | Frida - It's an OK coffee, not one of my favorites.
 
 ### [PROOF](https://shop.proof.coffee/)
 I ordered on Nov 15th and they sent me beans that were roasted on Oct 2. They were trash.
 
-### [Counter Culture](https://counterculturecoffee.com/)
-Classic. Favorite coffee is [fourty-six](https://counterculturecoffee.com/shop/coffee/collection-forty-six)
