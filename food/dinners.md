@@ -13,6 +13,7 @@
 * [instant pot baked ziti](https://www.skinnytaste.com/instant-pot-baked-ziti/)
 * [White Bean Enchiladas](https://www.skinnytaste.com/chicken-and-white-bean-enchiladas-with/) - sub chicken with a 1/2 block of tofu and 8oz of mushrooms; side of lime rice
 * [Cilantro Lime Rice](https://www.skinnytaste.com/chipotle-cilantro-lime-rice-4-pts/)
+* [Jalapeno Popper Skillet](https://www.veganricha.com/jalapeno-popper-skillet/)
 
 ## Fall
 * [Pumpkin Mac and Cheese](https://www.skinnytaste.com/pumpkin-mac-and-cheese-with-roasted-veggies/)
