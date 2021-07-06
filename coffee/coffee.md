@@ -70,6 +70,10 @@ perfectly roasted and I'm sure I'll buy again. Just can't find the flavors I wan
 
 Simple coffee selection with great prices. They make it SO easy to pick which coffee you want with a roast meter and tasting notes right up front. I've been happy with all the coffee I've purchased. My favorite is the Rainy Day Blend.
 
+### [Proud Mary](https://proudmarycoffee.com/)
+
+Nothing wrong with it.
+
 ## Nah
 
 ### [3-19 Coffee](https://319coffee.com/)
