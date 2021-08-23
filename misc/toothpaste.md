@@ -1,3 +1,7 @@
+---
+modified: 2021-08-22T20:48:19-04:00
+---
+
 # Toothpaste
 
 I don't like mint so finding a toothpaste is a giant pain in the butt. So the search is on!
@@ -14,3 +18,8 @@ settle.
 This is weird! But it feels like it's working. The problem is you get charoal on everything. NO matter how
 careful you are. I made a mistake by not taking before and after photos. However, I don't care about
 making my teeth white only about keeping them mint free and clean. The mess isn't worth it.
+
+##[Tom's of Maine Cinnamon Clove](
+https://www.amazon.com/dp/B07P6LR9ZD/)
+
+Weird at first but I got used to it. Best option so far!
