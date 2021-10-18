@@ -14,6 +14,7 @@
 * [White Bean Enchiladas](https://www.skinnytaste.com/chicken-and-white-bean-enchiladas-with/) - sub chicken with a 1/2 block of tofu and 8oz of mushrooms; side of lime rice
 * [Cilantro Lime Rice](https://www.skinnytaste.com/chipotle-cilantro-lime-rice-4-pts/)
 * [Jalapeno Popper Skillet](https://www.veganricha.com/jalapeno-popper-skillet/)
+* [Dal Makhani](https://rainbowplantlife.com/vegan-dal-makhani/#recipe)
 
 ## Fall
 * [Pumpkin Mac and Cheese](https://www.skinnytaste.com/pumpkin-mac-and-cheese-with-roasted-veggies/)
