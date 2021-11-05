@@ -15,6 +15,8 @@
 * [Cilantro Lime Rice](https://www.skinnytaste.com/chipotle-cilantro-lime-rice-4-pts/)
 * [Jalapeno Popper Skillet](https://www.veganricha.com/jalapeno-popper-skillet/)
 * [Dal Makhani](https://rainbowplantlife.com/vegan-dal-makhani/#recipe)
+* [Vegan Meatballs](https://frommybowl.com/the-best-vegan-meatballs/) - can be made into sandwiches w/ a veggie side or on pasta
 
 ## Fall
 * [Pumpkin Mac and Cheese](https://www.skinnytaste.com/pumpkin-mac-and-cheese-with-roasted-veggies/)
+* [Vegetable Fricasse with Cauli Mash](https://www.rabbitandwolves.com/vegan-vegetable-fricassee-cauliflower-mash) - reduce butter to 2 TBspn, omit celery
