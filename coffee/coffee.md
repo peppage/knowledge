@@ -36,51 +36,54 @@ The goal is to cool the coffee as soon as it's brewed. Also to brew a stronger c
 1. Pour slow and very little water on. We want to brew with much less water for the same amount of time
 1. Pour until the scale reaches the normal amount (500g) of water hopefully over 5minutes.
 
-## Currently in rotation
-
-### [Halfwit Coffee Roasters](https://www.halfwitcoffee.com/)
-I haven't had bad coffee from here. It was an accident I learned about this roaster at all. We
-stopped at [The Wormhole Coffee](http://www.thewormhole.us/) in Chicago and had a great cup.
-
-* Moonbat Blend - So far my favorite
-
-### [Onyx Coffee Lab](https://onyxcoffeelab.com/)
+### [Onyx Coffee Lab](https://onyxcoffeelab.com/) 🤩
 Considered one of the best coffee roasters in the US, I've seen them on the top lists all
 the time. Would order again!
 
 * Framily - Wonderful! Had a good mouthfeel. (only sold around Dec)
 * Monarch & Eclipse are good, I like their coffees on the more traditional side.
 
-### [Counter Culture](https://counterculturecoffee.com/)
+### [Counter Culture](https://counterculturecoffee.com/) 🤩
 Classic. Favorite coffee is [fourty-six](https://counterculturecoffee.com/shop/coffee/collection-forty-six)
 
-### [Methodical](https://methodicalcoffee.com/)
+### [Methodical](https://methodicalcoffee.com/) 🤩
 Excellent! I really enjoy their site since it lets you choose classic, contemporary, or avant-garde type
 coffees. Makes it easy to find.
 
 * Blue Boy & Belly Warmer are great.
 
-## Not at the moment
-### [Equator Coffees & Teas](https://www.equatorcoffees.com/)
+### [Equator Coffees & Teas](https://www.equatorcoffees.com/) 🤩
 
 Was one of my favs but they removed my favorite blend. Still, their coffee is
 perfectly roasted and I'm sure I'll buy again. Just can't find the flavors I want.
 
-### [Happy Mug](https://happymugcoffee.com/)
+### [Happy Mug](https://happymugcoffee.com/) ✅
 
 Simple coffee selection with great prices. They make it SO easy to pick which coffee you want with a roast meter and tasting notes right up front. I've been happy with all the coffee I've purchased. My favorite is the Rainy Day Blend.
 
-### [Proud Mary](https://proudmarycoffee.com/)
+### [Proud Mary](https://proudmarycoffee.com/) ✅
 
 Nothing wrong with it.
 
-## Nah
+### [Halfwit Coffee Roasters](https://www.halfwitcoffee.com/) 🤩
 
-### [3-19 Coffee](https://319coffee.com/)
-Cool branding but their coffee comes in unsealed bags that don't work for me.
+I haven't had bad coffee from here. It was an accident I learned about this roaster at all. We
+stopped at [The Wormhole Coffee](http://www.thewormhole.us/) in Chicago and had a great cup.
+
+* Moonbat Blend - So far my favorite
+
+### [Blossom Roasters](https://blossomcoffeeroasters.com/) ✅
+
+Not much to say, the coffee is good.
+
+### [3-19 Coffee](https://319coffee.com/) 🔻
+Cool branding but their coffee comes in bags that don't work for me.
 
 * Blend | Frida - It's an OK coffee, not one of my favorites.
 
-### [PROOF](https://shop.proof.coffee/)
-I ordered on Nov 15th and they sent me beans that were roasted on Oct 2. They were trash.
+### [PROOF](https://shop.proof.coffee/) 🔻
+I ordered on Nov 15th and they sent me beans that were roasted on Oct 2. I do not recommend.
+
+### [Olympia Coffee](https://www.olympiacoffee.com/)
+I want to order other blends here but I got the espresso, pretty good
 
