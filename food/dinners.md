@@ -20,3 +20,7 @@
 ## Fall
 * [Pumpkin Mac and Cheese](https://www.skinnytaste.com/pumpkin-mac-and-cheese-with-roasted-veggies/)
 * [Vegetable Fricasse with Cauli Mash](https://www.rabbitandwolves.com/vegan-vegetable-fricassee-cauliflower-mash) - reduce butter to 2 TBspn, omit celery
+
+## Soups
+* Cream of mushroom soup
+* Zuppa Toscana (From My Bowl)
