@@ -43,14 +43,18 @@ the time. Would order again!
 * Framily - Wonderful! Had a good mouthfeel. (only sold around Dec)
 * Monarch & Eclipse are good, I like their coffees on the more traditional side.
 
-### [Counter Culture](https://counterculturecoffee.com/) 🤩
-Classic. Favorite coffee is [fourty-six](https://counterculturecoffee.com/shop/coffee/collection-forty-six)
-
 ### [Methodical](https://methodicalcoffee.com/) 🤩
 Excellent! I really enjoy their site since it lets you choose classic, contemporary, or avant-garde type
 coffees. Makes it easy to find.
 
 * Blue Boy & Belly Warmer are great.
+
+### [Red Bird Coffee](https://redbirdcoffee.com/) 🤩
+Wonderful for espresso, my favorite is the Blue Jaguar Espresso.
+
+### [Counter Culture](https://counterculturecoffee.com/) 🤩
+
+Classic. Favorite coffee is [fourty-six](https://counterculturecoffee.com/shop/coffee/collection-forty-six)
 
 ### [Equator Coffees & Teas](https://www.equatorcoffees.com/) 🤩
 
@@ -65,7 +69,7 @@ Simple coffee selection with great prices. They make it SO easy to pick which co
 
 Nothing wrong with it.
 
-### [Halfwit Coffee Roasters](https://www.halfwitcoffee.com/) 🤩
+### [Halfwit Coffee Roasters](https://www.halfwitcoffee.com/) ✅
 
 I haven't had bad coffee from here. It was an accident I learned about this roaster at all. We
 stopped at [The Wormhole Coffee](http://www.thewormhole.us/) in Chicago and had a great cup.
