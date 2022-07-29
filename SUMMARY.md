@@ -11,7 +11,7 @@
   - [Japan](travel/japan.md)
   - [Paris](travel/paris.md)
 - Food
-  - [Water Alternatives](food/water-alternatives.md)
+  - [Weird Drinks](food/weird-drinks.md)
   - [Hot Sauce](food/hot-sauce.md)
   - [Cooking](/food/cooking/cooking.md)
     - [Vegan Butter](/food/cooking/vegan-butter.md)
