@@ -22,6 +22,9 @@ the original is like.
 
 ![Image of Matchabar](https://i.imgur.com/g0TyfS3.jpg?1)
 
-## Sutmptown Oatly Cold Brew Coffee Horchata
+## Stumptown Oatly Cold Brew Coffee Horchata
 
 This is disappointing. I love horchata but this doesn't have a strong flavor in any direction. It kinda just tastes like oat milk. Which isn't bad so I liked the taste of the drink but for what is advertised it doesn't meet my expectations. 
+
+
+![Image of Cold Brew Horchata](https://i.imgur.com/NJaqRWr.jpg?1)
