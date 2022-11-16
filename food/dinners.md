@@ -16,6 +16,7 @@
 * [Jalapeno Popper Skillet](https://www.veganricha.com/jalapeno-popper-skillet/)
 * [Dal Makhani](https://rainbowplantlife.com/vegan-dal-makhani/#recipe)
 * [Vegan Meatballs](https://frommybowl.com/the-best-vegan-meatballs/) - can be made into sandwiches w/ a veggie side or on pasta
+* [Vegetarian Chili](https://cookieandkate.com/vegetarian-chili-recipe/#tasty-recipes-23997-jump-target)
 
 ## Fall
 * [Pumpkin Mac and Cheese](https://www.skinnytaste.com/pumpkin-mac-and-cheese-with-roasted-veggies/)
