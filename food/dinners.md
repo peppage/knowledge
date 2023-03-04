@@ -24,4 +24,4 @@
 
 ## Soups
 * Cream of mushroom soup
-* Zuppa Toscana (From My Bowl)
+* [Zuppa Toscana](https://frommybowl.com/vegan-zuppa-toscana-olive-garden/)
